@@ -5,3 +5,6 @@
 !*.py
 !report.pdf
 !README.md
+!*.html
+!*.md
+!*.docx
